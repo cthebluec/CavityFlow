@@ -1,5 +1,5 @@
 # Base Image
-FROM coreos
+FROM ubuntu
 
 # Maintainer
 LABEL maintainer "Woochul Choi"
